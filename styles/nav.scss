@@ -1,0 +1,10 @@
+.blog--nav {
+  background: #64b587;
+  padding: 1.5em;
+
+  & a {
+    &:not(:first-child) {
+      margin-left: 1em;
+    }
+  }
+}

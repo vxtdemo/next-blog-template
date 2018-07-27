@@ -1,0 +1,6 @@
+.main-content {
+  h1 {
+    color: #64b587;
+    font-size: 1.75em;
+  }
+}
